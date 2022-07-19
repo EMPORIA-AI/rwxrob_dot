@@ -1,0 +1,13 @@
+cd
+systemctl stop server
+cd /home/server
+cd gh
+git pull
+cd /home/server
+cd gh-common
+git pull
+cd /home/server
+cd gh-cubed4th
+git pull
+cd
+systemctl start server
