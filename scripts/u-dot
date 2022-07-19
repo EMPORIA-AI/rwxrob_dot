@@ -1,0 +1,4 @@
+cd
+cd Repos/github.com/root/dot
+git pull
+cd
